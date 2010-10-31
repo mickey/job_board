@@ -10,4 +10,4 @@
   %table
     %tbody
       = render :partial => "job", :collection => @jobs
-= will_paginate(@jobs, :renderer => AwsmRenderer, :previous_label => "← Previous", :next_label => "Next →")
+  = will_paginate(@jobs, :renderer => AwsmRenderer, :previous_label => "← previous", :next_label => "next →")

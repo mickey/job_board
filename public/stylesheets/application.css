@@ -136,3 +136,22 @@ span.rating, a.rating {
   background-image: url(/images/gradient-bluetag.png); }
 .rating.blue:active {
   background-image: url(/images/gradient-bluetag-180.png); }
+
+.pagination {
+  padding: 20px 21px 20px 21px;
+  font-size: 16px; }
+  .pagination a:link, .pagination a:visited {
+    color: #175eb7;
+    text-decoration: none; }
+  .pagination ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #999999; }
+  .pagination li {
+    display: inline;
+    margin: 0 7px; }
+    .pagination li.previous_page {
+      float: left; }
+    .pagination li.next_page {
+      float: right; }
