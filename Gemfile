@@ -16,6 +16,12 @@ gem 'dragonfly'
 gem 'rmagick', :require => 'RMagick'
 gem 'rack-cache', :require => 'rack/cache'
 
+group :test, :development do
+  gem 'rspec', "~> 2.0.1"
+  gem "rspec-rails", "~> 2.0.1"
+end
+
+
 group :after_initialize do
  gem "feedzirra"
 end

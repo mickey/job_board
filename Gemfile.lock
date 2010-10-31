@@ -34,6 +34,7 @@ GEM
     bson_ext (1.1.1)
     builder (2.1.2)
     curb (0.7.8)
+    diff-lcs (1.1.2)
     dragonfly (0.7.7)
       rack
     erubis (2.6.6)
@@ -95,6 +96,18 @@ GEM
       thor (~> 0.14.0)
     rake (0.8.7)
     rmagick (2.13.1)
+    rspec (2.0.1)
+      rspec-core (~> 2.0.1)
+      rspec-expectations (~> 2.0.1)
+      rspec-mocks (~> 2.0.1)
+    rspec-core (2.0.1)
+    rspec-expectations (2.0.1)
+      diff-lcs (>= 1.1.2)
+    rspec-mocks (2.0.1)
+      rspec-core (~> 2.0.1)
+      rspec-expectations (~> 2.0.1)
+    rspec-rails (2.0.1)
+      rspec (~> 2.0.0)
     sanitize (1.2.1)
       nokogiri (~> 1.4.1)
     sax-machine (0.0.15)
@@ -122,6 +135,8 @@ DEPENDENCIES
   rack-cache
   rails (= 3.0.1)
   rmagick
+  rspec (~> 2.0.1)
+  rspec-rails (~> 2.0.1)
   sanitize
   sqlite3-ruby
   will_paginate (~> 3.0.pre2)
