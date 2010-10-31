@@ -1,0 +1,133 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+body {
+  font-family: "Lucida", "Lucida Grande", "Trebuchet MS", Tahoma, Verdana, sans-serif; }
+
+#content {
+  position: relative;
+  width: 980px;
+  margin: 0 auto 50px auto; }
+
+h1, h2, h3, h4, h5, h6, p, pre, blockquote, label, ul, ol, dl, fieldset, address {
+  margin: 1em 0; }
+
+li, dd {
+  margin-left: 5%; }
+
+fieldset {
+  padding: 0.5em; }
+
+select option {
+  padding: 0 5px; }
+
+.hide {
+  display: none; }
+
+.left {
+  float: left; }
+
+.right {
+  float: right; }
+
+.clear {
+  clear: both;
+  height: 1px;
+  font-size: 1px;
+  line-height: 1px; }
+
+a img {
+  border: none; }
+
+table.admin {
+  width: 100%;
+  font-size: 11px;
+  line-height: 15px;
+  margin: 0px 0px 10px;
+  background-color: white;
+  border-collapse: collapse;
+  border-color: #cccccc #dddddd #eeeeee;
+  border-width: 1px;
+  border-style: solid; }
+
+.fieldset table.admin {
+  margin: 0px; }
+
+table.admin td, table th {
+  vertical-align: top;
+  border-width: 1px 0px;
+  border-style: solid;
+  border-color: #dddddd;
+  padding: 5px; }
+
+table.admin th {
+  text-align: left;
+  font-weight: normal;
+  color: #666666;
+  background: #eeeeee; }
+
+table.admin thead th {
+  border-top-color: #cccccc; }
+
+table.admin td.active {
+  background: #e4f0f8; }
+
+table.admin tr.odd td.active {
+  background: #ecf8fc; }
+
+table.admin tr.title {
+  background: #ffffcc; }
+
+table.admin tr.form {
+  display: none; }
+
+table.admin tr.title.moderated {
+  background: white; }
+
+table.admin .tags_select {
+  width: 460px;
+  height: 200px; }
+
+.ui-helper-clearfix {
+  display: inline-block; }
+
+form.formtastic fieldset > ol > li {
+  overflow: hidden; }
+
+.ui-multiselect {
+  border: 1px solid #999999; }
+
+.pagination {
+  background: white; }
+  .pagination a, .pagination span, .pagination em {
+    padding: 0.2em 0.5em;
+    display: block;
+    float: left;
+    margin-right: 1px; }
+  .pagination span.disabled {
+    color: #999999;
+    border: 1px solid #dddddd; }
+  .pagination em {
+    font-weight: bold;
+    background: #2e6ab1;
+    color: white;
+    border: 1px solid #2e6ab1; }
+  .pagination a {
+    text-decoration: none;
+    color: #aaaaaa;
+    border: 1px solid #cccccc; }
+    .pagination a:hover, .pagination a:focus {
+      color: #000033;
+      border-color: #000033; }
+  .pagination .page_info {
+    background: #2e6ab1;
+    color: white;
+    padding: 0.4em 0.6em;
+    width: 22em;
+    margin-bottom: 0.3em;
+    text-align: center; }
+    .pagination .page_info b {
+      color: #000033;
+      background: #6aa6ed;
+      padding: 0.1em 0.25em; }

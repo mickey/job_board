@@ -1,0 +1,19 @@
+%tr
+  %td.logo
+    = image_tag job.company.image.thumb('85x').url if job.company.image
+  %td.job
+    %strong
+      = job.title
+    %em
+      = job.company.name
+  %td.tags
+    - job.tags.map(&:name).each_with_index do |t, i|
+      - if i % 4 == 0 && i != 0
+        %br
+        %br
+      %a.rating.blue{:href => "#"}
+        = t
+  %td.infos
+    %strong
+      = job.address.origin
+    4 hours ago

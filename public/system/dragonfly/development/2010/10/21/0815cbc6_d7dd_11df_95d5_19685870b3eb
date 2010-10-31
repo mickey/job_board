@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title>Rails Developer — GitHub Jobs</title>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+  <link rel="stylesheet" href="/stylesheets/bundle_jobs.css?394f2df0a10c807959d99a47075f98e68c69f0a7" type="text/css" />
+    <script src="/javascripts/bundle_jobs.js?394f2df0a10c807959d99a47075f98e68c69f0a7" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-3769691-9']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    </head>
+<body class="">
+  <div class="non-footer">
+    <div id="wrap">
+      <div id="header">
+        <h2 id="logo"><a href="http://jobs.github.com">GitHub Jobs</a></h2>
+        <ul id="gnav">
+          <li><a href="http://jobs.github.com/positions">All jobs</a></li>
+          <li><a href="https://jobs.github.com/post">Post a job</a></li>
+          <li><a href="http://jobs.github.com/faq">How it works</a></li>
+        </ul>
+      </div><!-- /#header -->
+      <div id="search" class="clearfix">
+        <div class="left">
+            <a href="/positions" class="back">See all positions</a>
+          </div>
+          <div class="right">
+            <ul class="prevnext">
+              </ul>
+          </div>
+          </div><!-- /#search -->
+      <div id="page">
+        <div class="inner">
+          <p class="supertitle">Contract / Providence, RI or Anywhere</p>
+  <h1>Rails Developer</h1>
+
+  <div class="columns generic ">
+    <div class="column main">
+      <p><strong>Some Questions For You</strong></p>
+
+<ul>
+<li>Are you a talented web developer who wants to surround yourself with people that can help you take your skills to the next level?</li>
+<li>Do you want to inspire and be inspired by your co-workers?</li>
+<li>Have you built web applications in Ruby on Rails?</li>
+<li>Do you want to work at a successful software development firm that specializes in significant projects, the kind you can really sink your teeth into?</li>
+</ul>
+
+
+<p>If you answered &ldquo;yes&rdquo; to all of these questions, you should consider applying for the open Rails Developer position at Mojo Tech.</p>
+
+<p><strong>A Little About Mojo Tech</strong></p>
+
+<ul>
+<li>We enjoy using exciting open source tools, especially Rails, to build our software.</li>
+<li>Our attitude is casual about things that don&rsquo;t matter, and serious about things that matter.  We don&rsquo;t have a dress code, but we do have a &ldquo;code code&rdquo;.</li>
+<li>We produce and expect only code of the highest quality.</li>
+<li>Our customers come from a variety of industries, but all have one thing in common &ndash; they love us.</li>
+<li>We work hard to foster a mutual trust and esteem between ourselves and our customers.</li>
+<li>We are also committed to our team.  We want to help our engineers become the best they can be!</li>
+</ul>
+
+
+<p><strong> Qualifications</strong></p>
+
+<ul>
+<li>Minimum 3 years professional experience developing web applications.</li>
+<li>Minimum 1 year professional experience with Ruby on Rails.</li>
+<li>You must be able to show us a commercial website or large open source project that you have developed (on your own, or as part of a team) with Ruby on Rails.</li>
+<li>You must have at least 2 years professional experience hand-coding JavaScript using a major framework (e.g. Prototype, Jquery, or MooTools).</li>
+<li>Git gurudom is a plus.</li>
+</ul>
+
+
+<p>This contract offers the opportunity for full time employment.</p>
+</div><!-- /.column.main -->
+
+    <div class="column sidebar">
+      <div class="module logo">
+  <div class="inner">
+    <h2>
+      Mojo Tech
+    </h2>
+    <div class="logo">
+        <a href="http://www.mojotech.com/" target="_blank">
+          <img src="//github-jobs.s3.amazonaws.com/cd6f88a0-d7db-11df-8ddc-32434c985af3.png" />
+        </a>
+      </div>
+    <p class="url">
+        <a href="http://www.mojotech.com/">http://www.mojotech.com/</a>
+      </p>
+    </div>
+</div>
+
+
+      <div class="module highlighted">
+        <div class="inner">
+          <h2>How to apply</h2>
+          <p><a href="http://www.mojotech.com/contact">http://www.mojotech.com/contact</a></p>
+</div>
+      </div>
+      
+
+    </div><!-- /.column.sidebar -->
+  </div><!-- /.columns -->
+
+  
+        </div>
+      </div><!-- /#page -->
+    </div><!-- /#wrap -->
+  </div><!-- /.non-footer -->
+  <div id="footer">
+    <div class="inner">
+      <h2 class="logo"><a href="http://github.com">Brought to you by GitHub</a></h2>
+      <ul class="github-nav">
+        <li><a href="http://github.com/blog" class="blog">The GitHub Blog</a></li>
+        <li><a href="http://support.github.com">Support</a></li>
+        <li><a href="http://github.com/contact">Contact Us</a></li>
+      </ul>
+      <p class="copyline">&copy; 2010 GitHub Inc. All rights reserved</p>
+
+      <p class="rackspace">Powered by the <a href="http://rackspace.com" target="_blank">Dedicated Servers</a> and <a href="http://rackspacecloud.com" target="_blank">Cloud Computing</a> of Rackspace Hosting&reg;</p>
+
+      <!-- Environment: production -->
+    </div>
+  </div><!-- /#footer -->
+  <!--[if IE 8]>
+  <script type="text/javascript" charset="utf-8">
+    $(document.body).addClass("ie8")
+  </script>
+  <![endif]-->
+
+  <!--[if IE 6]>
+  <style type="text/css" media="screen">
+    .non-footer, #footer{
+      display:none
+    }
+    .ie6-notice{
+      padding:50px;
+      font-size:24px;
+      font-weight:bold;
+      text-align:center;
+      color:#000;
+    }
+  </style>
+  <div class="ie6-notice">
+    <p>We're sorry, but we do not support Internet Explorer 6.</p>
+    <p>Please upgrade to <a href="http://www.google.com/chrome">Chrome</a>, <a href="http://getfirefox.com">Firefox</a> or <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Internet Explorer 8</a>
+  </div>
+
+  <script type="text/javascript"src="//ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+  <script>
+   CFInstall.check({
+     mode: "overlay"
+   });
+  </script>
+  <![endif]-->
+
+</body>
+</html>

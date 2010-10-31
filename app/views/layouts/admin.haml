@@ -1,0 +1,14 @@
+!!! Strict
+%html
+  %head
+    = formtastic_stylesheet_link_tag
+    = stylesheet_link_tag "ui-lightness/jquery-ui-1.8.4.custom", "ui.multiselect", "admin"
+    %title
+      = "ADMIN"
+  %body
+    #header
+    #content
+      %h1= "ADMIN"
+      = yield
+    = javascript_include_tag "jquery-1.4.2.min", "jquery-ui-1.8.custom.min", "plugins/scrollTo/jquery.scrollTo-min.js", "ui.multiselect", "admin"
+    = yield :javascript

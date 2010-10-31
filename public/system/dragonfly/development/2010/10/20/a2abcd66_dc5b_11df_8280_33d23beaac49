@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title>foursquare - android developer — GitHub Jobs</title>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+  <link rel="stylesheet" href="/stylesheets/bundle_jobs.css?394f2df0a10c807959d99a47075f98e68c69f0a7" type="text/css" />
+    <script src="/javascripts/bundle_jobs.js?394f2df0a10c807959d99a47075f98e68c69f0a7" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-3769691-9']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    </head>
+<body class="">
+  <div class="non-footer">
+    <div id="wrap">
+      <div id="header">
+        <h2 id="logo"><a href="http://jobs.github.com">GitHub Jobs</a></h2>
+        <ul id="gnav">
+          <li><a href="http://jobs.github.com/positions">All jobs</a></li>
+          <li><a href="https://jobs.github.com/post">Post a job</a></li>
+          <li><a href="http://jobs.github.com/faq">How it works</a></li>
+        </ul>
+      </div><!-- /#header -->
+      <div id="search" class="clearfix">
+        <div class="left">
+            <a href="/positions" class="back">See all positions</a>
+          </div>
+          <div class="right">
+            <ul class="prevnext">
+              </ul>
+          </div>
+          </div><!-- /#search -->
+      <div id="page">
+        <div class="inner">
+          <p class="supertitle">Full Time / New York, NY</p>
+  <h1>foursquare - android developer</h1>
+
+  <div class="columns generic ">
+    <div class="column main">
+      <p>About foursquare:</p>
+
+<p>Foursquare is seeking experienced Android developers to help architect, build, iterate and manage our broad set of mobile application and website products. You will be part of a fast-paced team driving ongoing product iteration and working in the highly competitive space of consumer-facing location-based services. The ideal candidate will be comfortable in a fluid start-up environment and will bring an energetic, fun and creative approach to their work.</p>
+
+<p>This job will be based in our headquarters in the East Village of New York City. We offer a competitive compensation package including equity options for all employees.</p>
+
+<p>Key responsibilities:</p>
+
+<ul>
+<li>Contribute best-in-class programming skills to develop highly innovative, consumer-facing mobile products</li>
+<li>Continually offer thought-leadership and dependable execution ability in a high-paced environment characterized by ongoing iteration and product pushes</li>
+<li>Play a key role in product development, help shape direction of foursquare feature set</li>
+</ul>
+
+
+<p>Requirements:</p>
+
+<ul>
+<li>BS or MS in Computer Science or related field</li>
+<li>3+ years of professional software development experience, java or c++ preferred</li>
+<li>Ideally 1-2 years of mobile software development experience (Android, J2ME or Blackberry preferred)</li>
+<li>Solid understanding of the intricacies of the Android platform</li>
+<li><p>Proficient in the following technologies:</p>
+
+<ul>
+<li>Java language and related frameworks</li>
+<li>Multi-Threading and memory management specific to mobile devices</li>
+<li>Understanding of caching mechanisms</li>
+</ul>
+</li>
+</ul>
+
+</div><!-- /.column.main -->
+
+    <div class="column sidebar">
+      <div class="module logo">
+  <div class="inner">
+    <h2>
+      <a href="/companies/foursquare" class="seemore">
+        1 other jobs
+      </a>
+      foursquare
+    </h2>
+    <div class="logo">
+        <a href="http://foursquare.com" target="_blank">
+          <img src="//github-jobs.s3.amazonaws.com/3ce7ef46-dc5b-11df-8d72-45cfe5b3f884.png" />
+        </a>
+      </div>
+    <p class="url">
+        <a href="http://foursquare.com">http://foursquare.com</a>
+      </p>
+    </div>
+</div>
+
+
+      <div class="module highlighted">
+        <div class="inner">
+          <h2>How to apply</h2>
+          <p>Click here to apply:  <a href="http://jobsco.re/coTzzL">http://jobsco.re/coTzzL</a></p>
+</div>
+      </div>
+      
+
+    </div><!-- /.column.sidebar -->
+  </div><!-- /.columns -->
+
+  
+        </div>
+      </div><!-- /#page -->
+    </div><!-- /#wrap -->
+  </div><!-- /.non-footer -->
+  <div id="footer">
+    <div class="inner">
+      <h2 class="logo"><a href="http://github.com">Brought to you by GitHub</a></h2>
+      <ul class="github-nav">
+        <li><a href="http://github.com/blog" class="blog">The GitHub Blog</a></li>
+        <li><a href="http://support.github.com">Support</a></li>
+        <li><a href="http://github.com/contact">Contact Us</a></li>
+      </ul>
+      <p class="copyline">&copy; 2010 GitHub Inc. All rights reserved</p>
+
+      <p class="rackspace">Powered by the <a href="http://rackspace.com" target="_blank">Dedicated Servers</a> and <a href="http://rackspacecloud.com" target="_blank">Cloud Computing</a> of Rackspace Hosting&reg;</p>
+
+      <!-- Environment: production -->
+    </div>
+  </div><!-- /#footer -->
+  <!--[if IE 8]>
+  <script type="text/javascript" charset="utf-8">
+    $(document.body).addClass("ie8")
+  </script>
+  <![endif]-->
+
+  <!--[if IE 6]>
+  <style type="text/css" media="screen">
+    .non-footer, #footer{
+      display:none
+    }
+    .ie6-notice{
+      padding:50px;
+      font-size:24px;
+      font-weight:bold;
+      text-align:center;
+      color:#000;
+    }
+  </style>
+  <div class="ie6-notice">
+    <p>We're sorry, but we do not support Internet Explorer 6.</p>
+    <p>Please upgrade to <a href="http://www.google.com/chrome">Chrome</a>, <a href="http://getfirefox.com">Firefox</a> or <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Internet Explorer 8</a>
+  </div>
+
+  <script type="text/javascript"src="//ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+  <script>
+   CFInstall.check({
+     mode: "overlay"
+   });
+  </script>
+  <![endif]-->
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+%table.admin
+  %thead
+    %tr
+      %th= "Title"
+      %th= "Company"
+      %th= "Location"
+      %th= "Category"
+      %th= "Tags"
+      %th= "Source"
+      %th= "Date"
+  %tbody#accordion
+    = render :partial => "job", :collection => @jobs
+
+= will_paginate @jobs

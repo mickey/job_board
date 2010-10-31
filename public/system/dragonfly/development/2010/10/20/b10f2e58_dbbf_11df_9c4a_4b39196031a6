@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title>Test Engineer — GitHub Jobs</title>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+  <link rel="stylesheet" href="/stylesheets/bundle_jobs.css?394f2df0a10c807959d99a47075f98e68c69f0a7" type="text/css" />
+    <script src="/javascripts/bundle_jobs.js?394f2df0a10c807959d99a47075f98e68c69f0a7" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-3769691-9']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    </head>
+<body class="">
+  <div class="non-footer">
+    <div id="wrap">
+      <div id="header">
+        <h2 id="logo"><a href="http://jobs.github.com">GitHub Jobs</a></h2>
+        <ul id="gnav">
+          <li><a href="http://jobs.github.com/positions">All jobs</a></li>
+          <li><a href="https://jobs.github.com/post">Post a job</a></li>
+          <li><a href="http://jobs.github.com/faq">How it works</a></li>
+        </ul>
+      </div><!-- /#header -->
+      <div id="search" class="clearfix">
+        <div class="left">
+            <a href="/positions" class="back">See all positions</a>
+          </div>
+          <div class="right">
+            <ul class="prevnext">
+              </ul>
+          </div>
+          </div><!-- /#search -->
+      <div id="page">
+        <div class="inner">
+          <p class="supertitle">Full Time / San Mateo, CA</p>
+  <h1>Test Engineer</h1>
+
+  <div class="columns generic ">
+    <div class="column main">
+      <p>Zvents helps more than 10 million monthly users find things to do in their local area, and helps thousands of event advertisers increase attendance at their events. Our network of locally branded entertainment guides reach the largest audience of people actively looking for things to do. More than 15,000 advertisers work with Zvents every month to promote a wide range of local events and activities.</p>
+
+<p>We’re based in San Mateo and have raised $32 million to date. We provide the event content or experience for MSN, Bing, AT&amp;T and more than 300 online newspapers, including SFGate and the San Jose Mercury News.</p>
+
+<p>As a Test Engineer, you have the opportunity to accelerate the delivery and improve the quality of consumer products that millions of people use every day. You will be responsible for designing and implementing build and test infrastructure, creating and enforcing good engineering practices, and evaluating product quality for various external and/or internal Zvents products. You will be part of an Engineering team that is working on problems in a number of areas, including search, web, Facebook and mobile products. Your primary responsibility as a Test Engineer will be to work with the development teams to create new test harnesses, automate testing, implement new automation tools and create innovative automated test systems. These test systems explore and validate the functional correctness, performance capabilities, and resource usage of our software, as well as their interaction with partner systems and infrastructure.</p>
+
+<p><strong>Responsibilities:</strong></p>
+
+<ul>
+<li>Build advanced automated test suites to exercise our applications used by millions of consumers every day.</li>
+<li>Work with the development teams to automate testing.</li>
+<li>Conduct research on emerging technologies.</li>
+<li>Analyze and decompose a complicated software system and design a strategy to test this system.</li>
+<li>Train and mentor other team members.</li>
+</ul>
+
+
+<p><strong>Requirements:</strong></p>
+
+<ul>
+<li>BS or MS in Computer Science or at least 3 years of development and/or test automation experience.</li>
+<li>Excellent coding skill in C, C++, Java, Ruby on Rails, PHP or Python.</li>
+<li>Good scripting skills in at least one common language (Python, Perl, Shell).</li>
+<li>Highly proficient in a Unix/Linux environment.</li>
+<li>Deep knowledge of internet technologies.</li>
+<li>Excellent written and verbal communication skills</li>
+<li>Strong troubleshooting and problem-solving skills</li>
+<li>Experience working in a continuous build/integration environment is a plus</li>
+<li>Experience with RSPEC and Cucumber a plus</li>
+<li>Knowledge of the following software engineering practices is a plus: continuous integration, configuration management, build optimization, build automation, and deployment</li>
+</ul>
+
+</div><!-- /.column.main -->
+
+    <div class="column sidebar">
+      <div class="module logo">
+  <div class="inner">
+    <h2>
+      <a href="/companies/Zvents" class="seemore">
+        1 other jobs
+      </a>
+      Zvents
+    </h2>
+    <div class="logo">
+        <a href="http://www.zvents.com" target="_blank">
+          <img src="//github-jobs.s3.amazonaws.com/a0abd750-dbbf-11df-9edc-c6a2e88d8cca.png" />
+        </a>
+      </div>
+    <p class="url">
+        <a href="http://www.zvents.com">http://www.zvents.com</a>
+      </p>
+    </div>
+</div>
+
+
+      <div class="module highlighted">
+        <div class="inner">
+          <h2>How to apply</h2>
+          <p>Email your resume to <a href="&#x6d;&#97;&#x69;&#108;&#x74;&#x6f;&#x3a;&#x64;&#x65;&#x76;&#x6a;&#x6f;&#x62;&#115;&#x40;&#x7a;&#x76;&#x65;&#110;&#x74;&#x73;&#x2e;&#99;&#111;&#109;">&#100;&#101;&#x76;&#x6a;&#x6f;&#98;&#115;&#x40;&#x7a;&#118;&#101;&#110;&#x74;&#115;&#x2e;&#x63;&#x6f;&#109;</a></p>
+</div>
+      </div>
+      
+
+    </div><!-- /.column.sidebar -->
+  </div><!-- /.columns -->
+
+  
+        </div>
+      </div><!-- /#page -->
+    </div><!-- /#wrap -->
+  </div><!-- /.non-footer -->
+  <div id="footer">
+    <div class="inner">
+      <h2 class="logo"><a href="http://github.com">Brought to you by GitHub</a></h2>
+      <ul class="github-nav">
+        <li><a href="http://github.com/blog" class="blog">The GitHub Blog</a></li>
+        <li><a href="http://support.github.com">Support</a></li>
+        <li><a href="http://github.com/contact">Contact Us</a></li>
+      </ul>
+      <p class="copyline">&copy; 2010 GitHub Inc. All rights reserved</p>
+
+      <p class="rackspace">Powered by the <a href="http://rackspace.com" target="_blank">Dedicated Servers</a> and <a href="http://rackspacecloud.com" target="_blank">Cloud Computing</a> of Rackspace Hosting&reg;</p>
+
+      <!-- Environment: production -->
+    </div>
+  </div><!-- /#footer -->
+  <!--[if IE 8]>
+  <script type="text/javascript" charset="utf-8">
+    $(document.body).addClass("ie8")
+  </script>
+  <![endif]-->
+
+  <!--[if IE 6]>
+  <style type="text/css" media="screen">
+    .non-footer, #footer{
+      display:none
+    }
+    .ie6-notice{
+      padding:50px;
+      font-size:24px;
+      font-weight:bold;
+      text-align:center;
+      color:#000;
+    }
+  </style>
+  <div class="ie6-notice">
+    <p>We're sorry, but we do not support Internet Explorer 6.</p>
+    <p>Please upgrade to <a href="http://www.google.com/chrome">Chrome</a>, <a href="http://getfirefox.com">Firefox</a> or <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Internet Explorer 8</a>
+  </div>
+
+  <script type="text/javascript"src="//ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+  <script>
+   CFInstall.check({
+     mode: "overlay"
+   });
+  </script>
+  <![endif]-->
+
+</body>
+</html>

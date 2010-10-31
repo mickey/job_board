@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title>Senior Backend Rails Developer — GitHub Jobs</title>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+  <link rel="stylesheet" href="/stylesheets/bundle_jobs.css?394f2df0a10c807959d99a47075f98e68c69f0a7" type="text/css" />
+    <script src="/javascripts/bundle_jobs.js?394f2df0a10c807959d99a47075f98e68c69f0a7" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-3769691-9']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    </head>
+<body class="">
+  <div class="non-footer">
+    <div id="wrap">
+      <div id="header">
+        <h2 id="logo"><a href="http://jobs.github.com">GitHub Jobs</a></h2>
+        <ul id="gnav">
+          <li><a href="http://jobs.github.com/positions">All jobs</a></li>
+          <li><a href="https://jobs.github.com/post">Post a job</a></li>
+          <li><a href="http://jobs.github.com/faq">How it works</a></li>
+        </ul>
+      </div><!-- /#header -->
+      <div id="search" class="clearfix">
+        <div class="left">
+            <a href="/positions" class="back">See all positions</a>
+          </div>
+          <div class="right">
+            <ul class="prevnext">
+              </ul>
+          </div>
+          </div><!-- /#search -->
+      <div id="page">
+        <div class="inner">
+          <p class="supertitle">Full Time / Hollywood, CA</p>
+  <h1>Senior Backend Rails Developer</h1>
+
+  <div class="columns generic ">
+    <div class="column main">
+      <p>We’re a small, focused startup about to come out of closed Beta making a killer desktop app for the music industry. Think Dropbox + Lightroom + YouSendIt.</p>
+
+<p>Our application runs on the desktop, but a lot of the magic happens in the cloud. We use Rails/Mongoid/MongoDB to provide backend API services for the client, and also to serve up our website. We’re looking for a talented Rails developer who is capable and passionate about taking on a wide variety of challenges.</p>
+
+<p>Your work might involve building the consumer-facing side of the web application, working with the internal APIs used by our desktop client, devising a migration strategy for schema objects, or even building out a public API for external developers.  We’re working at a breakneck pace adding cool new features and growing our userbase &ndash; so we’re looking for someone who can handle anything that’s thrown at them.</p>
+
+<p>We&rsquo;re still in beta, so you’ll be able to get in at the ground floor and have a huge impact.</p>
+
+<p><strong>Requirements</strong></p>
+
+<ul>
+<li>Experience building and scaling successful web applications using Rails</li>
+<li>Great, in-depth knowledge of Ruby</li>
+<li>Ability to work effectively with web designers</li>
+<li>Good knowledge of encryption</li>
+</ul>
+
+
+<p><strong>Pluses</strong></p>
+
+<ul>
+<li>Javascript, C++</li>
+<li>MongoDB or NoSQL</li>
+</ul>
+
+
+<p><strong>Please don’t judge us by our placeholder website – it’s all programmer art! Our designers are almost done with a new version that won’t make your eyeballs bleed.</strong></p>
+</div><!-- /.column.main -->
+
+    <div class="column sidebar">
+      <div class="module logo">
+  <div class="inner">
+    <h2>
+      <a href="/companies/Mediagobbler, Inc." class="seemore">
+        3 other jobs
+      </a>
+      Mediagobbler, Inc.
+    </h2>
+    <div class="logo">
+        <a href="http://getgobbler.com" target="_blank">
+          <img src="//github-jobs.s3.amazonaws.com/0dff6bc8-d8aa-11df-8a90-e2f5c921a1bd.png" />
+        </a>
+      </div>
+    <p class="url">
+        <a href="http://getgobbler.com">http://getgobbler.com</a>
+      </p>
+    </div>
+</div>
+
+
+      <div class="module highlighted">
+        <div class="inner">
+          <h2>How to apply</h2>
+          <p>Email your resume to <a href="&#109;&#97;&#105;&#108;&#116;&#x6f;&#x3a;&#x6a;&#x6f;&#x62;&#115;&#x2b;&#103;&#x69;&#116;&#104;&#x75;&#98;&#x40;&#109;&#101;&#100;&#x69;&#97;&#103;&#111;&#x62;&#98;&#108;&#101;&#x72;&#x2e;&#99;&#x6f;&#x6d;">&#106;&#x6f;&#x62;&#x73;&#43;&#103;&#x69;&#x74;&#104;&#x75;&#98;&#x40;&#109;&#101;&#100;&#105;&#97;&#103;&#111;&#98;&#x62;&#108;&#x65;&#x72;&#46;&#x63;&#111;&#x6d;</a></p>
+</div>
+      </div>
+      
+
+    </div><!-- /.column.sidebar -->
+  </div><!-- /.columns -->
+
+  
+        </div>
+      </div><!-- /#page -->
+    </div><!-- /#wrap -->
+  </div><!-- /.non-footer -->
+  <div id="footer">
+    <div class="inner">
+      <h2 class="logo"><a href="http://github.com">Brought to you by GitHub</a></h2>
+      <ul class="github-nav">
+        <li><a href="http://github.com/blog" class="blog">The GitHub Blog</a></li>
+        <li><a href="http://support.github.com">Support</a></li>
+        <li><a href="http://github.com/contact">Contact Us</a></li>
+      </ul>
+      <p class="copyline">&copy; 2010 GitHub Inc. All rights reserved</p>
+
+      <p class="rackspace">Powered by the <a href="http://rackspace.com" target="_blank">Dedicated Servers</a> and <a href="http://rackspacecloud.com" target="_blank">Cloud Computing</a> of Rackspace Hosting&reg;</p>
+
+      <!-- Environment: production -->
+    </div>
+  </div><!-- /#footer -->
+  <!--[if IE 8]>
+  <script type="text/javascript" charset="utf-8">
+    $(document.body).addClass("ie8")
+  </script>
+  <![endif]-->
+
+  <!--[if IE 6]>
+  <style type="text/css" media="screen">
+    .non-footer, #footer{
+      display:none
+    }
+    .ie6-notice{
+      padding:50px;
+      font-size:24px;
+      font-weight:bold;
+      text-align:center;
+      color:#000;
+    }
+  </style>
+  <div class="ie6-notice">
+    <p>We're sorry, but we do not support Internet Explorer 6.</p>
+    <p>Please upgrade to <a href="http://www.google.com/chrome">Chrome</a>, <a href="http://getfirefox.com">Firefox</a> or <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Internet Explorer 8</a>
+  </div>
+
+  <script type="text/javascript"src="//ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+  <script>
+   CFInstall.check({
+     mode: "overlay"
+   });
+  </script>
+  <![endif]-->
+
+</body>
+</html>

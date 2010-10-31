@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title>Scala Developers, Funded Stealth Company — GitHub Jobs</title>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+  <link rel="stylesheet" href="/stylesheets/bundle_jobs.css?394f2df0a10c807959d99a47075f98e68c69f0a7" type="text/css" />
+    <script src="/javascripts/bundle_jobs.js?394f2df0a10c807959d99a47075f98e68c69f0a7" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-3769691-9']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    </head>
+<body class="">
+  <div class="non-footer">
+    <div id="wrap">
+      <div id="header">
+        <h2 id="logo"><a href="http://jobs.github.com">GitHub Jobs</a></h2>
+        <ul id="gnav">
+          <li><a href="http://jobs.github.com/positions">All jobs</a></li>
+          <li><a href="https://jobs.github.com/post">Post a job</a></li>
+          <li><a href="http://jobs.github.com/faq">How it works</a></li>
+        </ul>
+      </div><!-- /#header -->
+      <div id="search" class="clearfix">
+        <div class="left">
+            <a href="/positions" class="back">See all positions</a>
+          </div>
+          <div class="right">
+            <ul class="prevnext">
+              </ul>
+          </div>
+          </div><!-- /#search -->
+      <div id="page">
+        <div class="inner">
+          <p class="supertitle">Full Time / New York City</p>
+  <h1>Scala Developers, Funded Stealth Company</h1>
+
+  <div class="columns generic ">
+    <div class="column main">
+      <p>About Us</p>
+
+<p>We are brand new stealth-mode startup venture with significant backing. We will redefine the way consumers interact with content, devices, and each other. Our core platform will be built in Scala. (More details await after you sign our NDA!)</p>
+
+<p><strong>Role</strong></p>
+
+<p>We’re seeking creative, motivated Scala developers to:</p>
+
+<ul>
+<li>Design and code large-scale metadata and social network aggregation for recommendations</li>
+<li>Develop a massively scalable processing pipeline to analyze and cluster media metadata</li>
+<li>Integrate cutting edge tools and frameworks, likely to include Hadoop, SOLR/Lucene, Carrot2, GATE, Zookeeper, NoSQL and Postgres. We are a small team and we work on everything that needs working on.</li>
+<li>Join a team that is Agile when it makes sense, but always sensible, clever, open-minded and hard-working. Contribute to our engineering culture and development process.</li>
+<li>Prototype new approaches fast &mdash; deploy early and often.</li>
+<li>Improve our development culture: propose new approaches and tools, automate annoying tasks</li>
+<li>Troubleshoot and maintain critical production and testing environments. Diagnose and address performance issues whenever and wherever they occur.</li>
+<li>Run hard and reap the rewards with our tight-knit team.</li>
+<li>Help build our Scala depth, mentor and train others, and learn a ton in the process..
+Play Starcraft II.</li>
+</ul>
+
+
+<p><strong>Requirements</strong></p>
+
+<ul>
+<li>We&rsquo;re looking for Scala experience, but above all seek generalists who have lots of successes committing at every layer of the stack.</li>
+<li>You must write well-structured, readable, well-documented code. (Be able to show us code samples of which you’re most proud.)</li>
+<li>Ambitious, driven, and talented individual who wants to work on hard problems</li>
+<li>Team player who feels at home in a flat-structured, highly collaborative and sometimes noisy environment.</li>
+<li>Strong opinions about testing, deployment, version control and dependency management</li>
+<li>Ability to balance beauty and pragmatism in your designs and code. (Prove it with sample projects.)</li>
+<li>Java or Scala (with a real passion for learning Scala and FP)</li>
+<li>SQL (Postgres 8 or newer)</li>
+<li>Linux: expert day-to-day facility</li>
+<li>Git</li>
+</ul>
+
+
+<p>Highly Desirable:</p>
+
+<ul>
+<li>Data Mining and Clustering</li>
+<li>Collaborative Filtering and Recommendation Engines</li>
+<li>Natural Language Processing (NLP)</li>
+<li>Search (scoring functions, clustering, distributed indexing, etc.) with SOLR/Lucene</li>
+<li>NoSQL Datastores (Cassandra, Riak, MongoDB)</li>
+<li>Amazon Web Services (EC2, S3, EBS, etc.) and cloud infrastructure in general.</li>
+</ul>
+
+
+<p><strong>Experience</strong></p>
+
+<ul>
+<li>A minimum of 4 years applicable software engineering, with a trail of outstanding references from peers.</li>
+<li>Referenceable projects you have led from stem to stern, of any size.</li>
+<li>Minimally a BA/BS in Computer Science, Computer Engineering or related field.</li>
+</ul>
+
+
+<p><strong>What We Offer</strong></p>
+
+<ul>
+<li>A driven, motivated, and talented small team that believes in working hard and reaping the rewards.</li>
+<li>High-energy, transparent work environment.</li>
+<li>Laid-back office environment: we are collocated with another company now and will move to a new space in the coming months. Help define your working digs!</li>
+<li>Competitive compensation and excellent benefits.</li>
+</ul>
+
+</div><!-- /.column.main -->
+
+    <div class="column sidebar">
+      <div class="module logo">
+  <div class="inner">
+    <h2>
+      Obikosh
+    </h2>
+    <p class="url">
+        <a href="http://obikosh.com">http://obikosh.com</a>
+      </p>
+    </div>
+</div>
+
+
+      <div class="module highlighted">
+        <div class="inner">
+          <h2>How to apply</h2>
+          <p>Send the following to careers@obikosh.com:
+&ndash; Cover email explaining why you want to join us.
+&ndash; Resume in Word .doc(x), .pdf or plain txt and link to online profiles (Twitter, Github, StackOverflow, Quora, LinkedIn)
+&ndash; Links to your code repositories and live applications.</p>
+</div>
+      </div>
+      
+
+    </div><!-- /.column.sidebar -->
+  </div><!-- /.columns -->
+
+  
+        </div>
+      </div><!-- /#page -->
+    </div><!-- /#wrap -->
+  </div><!-- /.non-footer -->
+  <div id="footer">
+    <div class="inner">
+      <h2 class="logo"><a href="http://github.com">Brought to you by GitHub</a></h2>
+      <ul class="github-nav">
+        <li><a href="http://github.com/blog" class="blog">The GitHub Blog</a></li>
+        <li><a href="http://support.github.com">Support</a></li>
+        <li><a href="http://github.com/contact">Contact Us</a></li>
+      </ul>
+      <p class="copyline">&copy; 2010 GitHub Inc. All rights reserved</p>
+
+      <p class="rackspace">Powered by the <a href="http://rackspace.com" target="_blank">Dedicated Servers</a> and <a href="http://rackspacecloud.com" target="_blank">Cloud Computing</a> of Rackspace Hosting&reg;</p>
+
+      <!-- Environment: production -->
+    </div>
+  </div><!-- /#footer -->
+  <!--[if IE 8]>
+  <script type="text/javascript" charset="utf-8">
+    $(document.body).addClass("ie8")
+  </script>
+  <![endif]-->
+
+  <!--[if IE 6]>
+  <style type="text/css" media="screen">
+    .non-footer, #footer{
+      display:none
+    }
+    .ie6-notice{
+      padding:50px;
+      font-size:24px;
+      font-weight:bold;
+      text-align:center;
+      color:#000;
+    }
+  </style>
+  <div class="ie6-notice">
+    <p>We're sorry, but we do not support Internet Explorer 6.</p>
+    <p>Please upgrade to <a href="http://www.google.com/chrome">Chrome</a>, <a href="http://getfirefox.com">Firefox</a> or <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Internet Explorer 8</a>
+  </div>
+
+  <script type="text/javascript"src="//ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+  <script>
+   CFInstall.check({
+     mode: "overlay"
+   });
+  </script>
+  <![endif]-->
+
+</body>
+</html>

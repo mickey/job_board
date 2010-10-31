@@ -1,0 +1,15 @@
+.filter
+  %h3= "Category"
+  .field
+    = select_tag "category", options_for_select(Category::LIST)
+.filter.fmargin
+  %h3= "Tags"
+  .field
+    = text_field_tag 'tags'
+.filter.fmargin
+  %h3= "Location"
+  .field
+    = text_field_tag 'location'
+.filter.fmargin.search
+  %a.large.awesome.button= "Search »"
+.clear

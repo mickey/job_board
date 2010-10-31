@@ -1,0 +1,21 @@
+%tr.title{:class => job.is_moderated? ? "moderated" : ""}
+  %td= job.title[0..40]
+  %td= job.company.name
+  %td= job.address.origin
+  %td= job.category
+  %td= job.tags.map(&:name).join(", ")
+  %td= job.source
+  %td= job.date
+%tr.form
+  %td{:colspan => "7"}
+    - semantic_form_for [:admin, job] do |form|
+      - form.inputs do
+        = form.input :title
+        = form.input :category, :as => :select, :collection => Category::LIST
+        = form.input :description, :as => :text
+        = form.semantic_fields_for :tags do
+          = form.input :tags, :as => :select, :collection => @tags.map(&:name), :input_html => {:multiple => true, :class => "tags_select"}, :selected => job.tags.map(&:name)
+          = form.input :add_tag, :input_html => {:class => "add_tag"}
+        - form.buttons do
+          = form.commit_button :label => "Save"
+          = form.commit_button :label => "Save and Moderate"
