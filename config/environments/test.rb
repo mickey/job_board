@@ -32,4 +32,8 @@ JobBoardv2::Application.configure do
 
   # Print deprecation notices to the stderr
   config.active_support.deprecation = :stderr
+  
+  MongoMapper.connection = Mongo::Connection.new('localhost')
+  MongoMapper.database = 'job_board_test'
+  
 end
