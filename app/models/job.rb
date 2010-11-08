@@ -7,17 +7,24 @@ class Job
   key :title,         String, :required => true
   key :date,          DateTime, :required => true
   key :description,   String, :required => true
-  key :url,           String
-  key :tags,          Array
-  key :schedule,      String
   key :category,      String
+  key :url,           String
+  key :tags_list,     Array
+  key :schedule,      String
+  key :tag_ids,       Array, :required => false  # dragonfly stuff
   
   one :company
   one :address
-  key :tag_ids,       Array, :required => false 
   many :tags, :in => :tag_ids
   
+  validate_on_update :category_required, :tag_required
+  before_save :fill_tags
+  
   attr_accessor :add_tag
+  
+  def fill_tags
+    self.tags_list = self.tags.map(&:name)
+  end
   
   def tags=(tags)
     self.tag_ids = []
@@ -30,6 +37,29 @@ class Job
       end
       self.tags << final_tag
     end
+  end
+  
+  def tag_required
+    errors.add(:tags, "can't be blank") if is_moderated == true and tags.length < 1
+  end
+  
+  def category_required
+    errors.add(:category, "can't be blank")  if is_moderated == true and category.blank?
+  end
+  
+  module Search
+    
+    #def TODO test tags
+    def self.find(category, tags = [], location = [])
+      raise "Category Undefined" unless Category::LIST.include?(category)
+      
+      conditions = {:is_moderated => true, :category => category}
+      conditions << {'tags_ids' => tags} unless tags.blank?
+      
+      
+      Job.all(:conditions => conditions)
+    end
+    
   end
   
 end
