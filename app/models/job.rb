@@ -11,7 +11,7 @@ class Job
   key :url,           String
   key :tags_list,     Array
   key :schedule,      String
-  key :tag_ids,       Array, :required => false  # dragonfly stuff
+  key :tag_ids,       Array, :required => false
   
   one :company
   one :address
