@@ -1,5 +1,6 @@
 class Job
   include MongoMapper::Document
+  include Search
   
   key :is_moderated,  Boolean, :default => false, :required => true
   key :source,        String, :required => true
@@ -45,21 +46,6 @@ class Job
   
   def category_required
     errors.add(:category, "can't be blank")  if is_moderated == true and category.blank?
-  end
-  
-  module Search
-    
-    #def TODO test tags
-    def self.find(category, tags = [], location = [])
-      raise "Category Undefined" unless Category::LIST.include?(category)
-      
-      conditions = {:is_moderated => true, :category => category}
-      conditions << {'tags_ids' => tags} unless tags.blank?
-      
-      
-      Job.all(:conditions => conditions)
-    end
-    
   end
   
 end

@@ -1,3 +1,5 @@
+Launch specs with rake spec so the db is reset !
+
 # find all jobs where tags are either id1, id2 or id3 => id1 || id2 || id3
 #Job.all(:conditions => {'tag_ids' => [id1, id2, id3]})
 

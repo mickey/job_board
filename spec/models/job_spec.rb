@@ -32,32 +32,4 @@ describe Job do
     
   end
   
-  describe "Search" do
-    
-    it "should fail if category doesn't exist" do
-      lambda { Job::Search.find("FAKE") }.should raise_error
-    end
-    
-    it "should not find non moderated jobs" do
-      job = Factory.create(:job_non_moderated)
-      Job::Search.find(job.category).should_not include(job)
-    end
-    
-    it "should find jobs in provided category" do
-      job = Factory.create(:job_moderatable, :is_moderated => true)
-      Job::Search.find(job.category).should include(job)
-    end
-    
-    it "should not find jobs in other categories" do
-      job = Factory.create(:job_moderatable, :is_moderated => true, :category => Category::PROGRAMMING)
-      Job::Search.find(Category::DESIGN).should_not include(job)
-    end
-    
-    it "should work when no tag is provided" do
-      job = Factory.create(:job_moderatable, :is_moderated => true, :tags => [])
-      Job::Search.find(job.category).should include(job)
-    end
-    
-  end
-  
 end
