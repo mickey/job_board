@@ -1,4 +1,5 @@
 require File.dirname(__FILE__) + '/../spec_helper'
+include Geokit::Geocoders
 
 describe "Search" do
   
@@ -55,6 +56,52 @@ describe "Search" do
     job2 = Factory.create(:job_moderatable, :is_moderated => true, :tags => ["test_order_1", "test_order_2"])
     job3 = Factory.create(:job_moderatable, :is_moderated => true, :tags => ["test_order_1", "test_order_2", "test_order_3"])
     Job.search(job1.category, ["test_order_0", "test_order_1", "test_order_2"]).should == [job3, job2, job1]
+  end
+  
+  it "should not geocode if location is blank or is 'anywhere'" do
+    job = Factory.create(:job_moderatable, :is_moderated => true)
+    Job.search(job.category, [], "")
+    MultiGeocoder.should_not_receive(:geocode)
+    Job.search(job.category, [], "anywhere")
+    MultiGeocoder.should_not_receive(:geocode)
+  end
+  
+  it "should find by zipocde" do
+    job = Factory.create(:job_moderatable, :is_moderated => true, :address => {:origin => "113 avenue de la dhuys"}) #zipcode = 93170
+    puts job.address.inspect
+    Job.search(job.category, [], "93170").should include(job)
+  end
+  
+  it "should find by city" do
+    job = Factory.create(:job_moderatable, :is_moderated => true, :address => {:origin => "Paris"})
+    Job.search(job.category, [], "paris").should include(job)
+  end
+  
+  # it actually works thanks to the search by state ... so I should find a better test 
+  it "should find near city" do
+    job = Factory.create(:job_moderatable, :is_moderated => true, :address => {:origin => "Bagnolet"})
+    Job.search(job.category, [], "Paris").should include(job)
+  end
+  
+  it "should find by country" do
+    job = Factory.create(:job_moderatable, :is_moderated => true, :address => {:origin => "Paris"})
+    Job.search(job.category, [], "France").should include(job)
+  end
+  
+  it "should find by country code" do
+    job = Factory.create(:job_moderatable, :is_moderated => true, :address => {:origin => "Paris"})
+    Job.search(job.category, [], "FR").should include(job)
+  end
+  
+  it "should find by state" do
+    job = Factory.create(:job_moderatable, :is_moderated => true, :address => {:origin => "San Francisco"})
+    Job.search(job.category, [], "CA").should include(job)
+    Job.search(job.category, [], "california").should include(job)
+  end
+  
+  it "should not find jobs not in the good location" do
+    job = Factory.create(:job_moderatable, :is_moderated => true, :address => {:origin => "San Francisco"})
+    Job.search(job.category, [], "NY").should_not include(job)
   end
   
 end

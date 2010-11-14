@@ -16,6 +16,7 @@ class Job
   
   one :company
   one :address
+  ensure_index 'address.loc'
   many :tags, :in => :tag_ids
   
   validate_on_update :category_required, :tag_required
