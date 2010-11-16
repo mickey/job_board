@@ -15,6 +15,7 @@ gem 'sanitize'
 gem 'dragonfly'
 gem 'rmagick', :require => 'RMagick'
 gem 'rack-cache', :require => 'rack/cache'
+gem 'fuubar'
 
 
 group :test, :development do
